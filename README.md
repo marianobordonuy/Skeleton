@@ -1,3 +1,7 @@
+## This fork
+
+This is my personal fork from the master repository, this is made for personal use since I believe Skeleton is still worth using and it can be improved to build nice websites with just a couple of styling lines of code. 
+
 # [Skeleton](http://getskeleton.com)
 Skeleton is a simple, responsive boilerplate to kickstart any responsive project.
 
